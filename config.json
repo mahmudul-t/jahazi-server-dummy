@@ -3,7 +3,7 @@
   "version": 1,
   "num_of_freq_th": 10,
   "considered_num_of_freq_th": 6,
-  "number_of_max_freq_fft_calc": 50,
+  "number_of_max_freq_fft_calc": 30,
   "f_pos_1": 100,
   "mag_th_1": 0.5,
   "f_pos_2": 200,
